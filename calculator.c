@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <math.h>
-
+//this is calculator program....
+//practical 11
 int main() {
     char operator;
     double num1, num2, result;
@@ -39,3 +40,4 @@ int main() {
 
     return 0;
 }
+

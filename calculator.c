@@ -35,7 +35,7 @@ int main() {
             return 1; 
     }
 
-    printf("Result: %.2lf\n", result);
+    printf("Result: \n %lf %c %lf = %.2lf\n",num1, operator, num2, result);
 
     return 0;
 }
